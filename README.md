@@ -1,8 +1,8 @@
 # Wedad Salem
 
-**Software & Game Developer** · Riyadh, Saudi Arabia
+**Software & Game Developer** · Riyadh, Saudi Arabia · 🟢 Open to Work
 
-4+ years shipping products across games, mobile, desktop, and web. Published to the App Store and Google Play. Apple Developer Academy graduate. Currently open to work.
+4+ years shipping across games, mobile apps, desktop software, and web. Published on the App Store and Google Play. Apple Developer Academy graduate.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-we--dad.github.io-black?style=flat-square)](https://we-dad.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wedad--salem-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wedad-salem)
@@ -11,89 +11,48 @@
 
 ---
 
-## What I Build
+## What I've Shipped
 
-🎮 **Games** — Unity (3D, ECS/DOTS), shipped to Google Play, App Store, and web  
-📱 **iOS Apps** — Swift / SwiftUI, published under my own developer account  
-🖥️ **Desktop Software** — C# / Avalonia, delivered for real clients in production  
-🌐 **Web** — ASP.NET MVC, Vapor backend, full-stack projects  
+- 🎮 **3 mobile games** shipped at GamifierSA — sole or lead programmer on each
+- 📱 **iOS app published** to the App Store under my own developer account (Space Genie)
+- 🤖 **Unity game** shipped to Google Play (FitNot)
+- 🖥️ **Desktop real estate system** built solo and in daily production use by a client
+- 🔐 **4-stage cybersecurity educational game** delivered end-to-end for a freelance client
 
 ---
 
 ## Tech Stack
 
-**Languages**
+**Languages** · C# · Swift · JavaScript · SQL
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**Engines & Frameworks** · Unity (3D, ECS/DOTS) · SwiftUI · ASP.NET MVC · Avalonia · Vapor
 
-**Engines & Frameworks**
+**Backend & Data** · Firebase · Supabase · SQLite · PlayFab · PostgreSQL
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Avalonia](https://img.shields.io/badge/Avalonia-8B44AC?style=flat-square&logo=dotnet&logoColor=white)
-![Vapor](https://img.shields.io/badge/Vapor-4F8FF7?style=flat-square&logo=swift&logoColor=white)
+**Tools** · Git · Xcode · Visual Studio · Heroku
 
-**Backend & Data**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PlayFab](https://img.shields.io/badge/PlayFab-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+**Platforms** · iOS · Android · Desktop (Windows, macOS, Linux) · Web
 
 ---
 
 ## Featured Projects
 
-### 🔴 Cybersecurity Educational Game — Unity · PC
-Freelance client project. Four-stage game with a different mechanic per stage: drag-and-drop, shooter, card-sorting, and quiz. Includes player auth, save system, in-game economy, shop, completion certificate, and performance report.  
-[▶ Play on itch.io](https://wedad.itch.io/cyber-security-game)
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| [Cybersecurity Game](https://wedad.itch.io/cyber-security-game) | 4-stage educational game with auth, economy, shop & certificates. Freelance. | Unity · C# |
+| [Cows & Bulls](https://github.com/we-dad/CowsAndBullsGame) | Number-guessing game built as a card payment terminal with receipt printing. | Unity · PlayFab |
+| [Battle Simulator](https://github.com/we-dad/BattleSimulator) | ECS/DOTS strategy game — modular unit behaviors, high entity count performance. | Unity · DOTS |
+| [Space Genie](https://apps.apple.com/sa/app/space-genie/id6450126107) | Published iOS marketplace with AI design assistant and real-time messaging. | Swift · Firebase |
+| [Real Estate System](https://github.com/we-dad/real-estate-installment-manager-releases) | Solo-built desktop app for a client — property, tenant & contract management. | C# · Avalonia |
+| [Sambosa Shop](https://github.com/we-dad/SambosaShop) | Mobile prototype with procedural mesh math and event-driven state machine. | Unity URP |
 
 ---
 
-### 🐄 Cows and Bulls — Unity · C# · PlayFab
-Number-guessing game built as a card payment terminal. Player types on a keypad, results print on a paper receipt. Online leaderboard, Arabic/English localization, native share flow.  
-[GitHub →](https://github.com/we-dad/CowsAndBullsGame)
+## GitHub Stats
+
+![Wedad's GitHub stats](https://github-readme-stats.vercel.app/api?username=we-dad&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
-### ⚔️ Battle Simulator — Unity ECS/DOTS · C#
-Strategy game on a data-oriented architecture. Players compose a Blue Team to counter a procedurally generated Red Team. Unit behaviors are modular and swappable without touching combat code.  
-[GitHub →](https://github.com/we-dad/BattleSimulator)
-
----
-
-### 🏠 Space Genie — Swift · SwiftUI · Firebase · OpenAI
-Published iOS app (App Store, 2023). Marketplace connecting property owners with interior designers. Real-time Firestore messaging, AI design assistant via OpenAI API. Built in a 3-person team at Apple Developer Academy.  
-[App Store →](https://apps.apple.com/sa/app/space-genie/id6450126107) · [GitHub →](https://github.com/we-dad/InteriorDesigner)
-
----
-
-### 🏢 Real Estate Management System — C# · Avalonia · SQLite · Supabase
-Desktop app built solo for a freelance client. Manages property units, owners, tenants, installment schedules, and contract generation. In daily production use.  
-[GitHub →](https://github.com/we-dad/real-estate-installment-manager-releases)
-
----
-
-### 🫔 Sambosa Shop — Unity URP · C#
-Mobile prototype with procedural paper-folding mesh math, event-driven state machine, and ScriptableObject order data. Demo video and technical documentation included.  
-[GitHub →](https://github.com/we-dad/SambosaShop)
-
----
-
-## Experience Highlights
-
-| Year | Role | Company |
-|------|------|---------|
-| 2025 – now | Freelance Software & Game Developer | Self-employed |
-| 2023 – 2024 | Game Programmer | GamifierSA |
-| 2023 | Game Development Instructor | DigiPen Institute of Technology |
-| 2022 – 2023 | Game Developer | GameFounders Accelerator |
-| 2022 | Game Programmer | FitNot |
-
----
-
-*B.Sc. Computer Science · Apple Developer Academy graduate · Open to full-time and freelance roles*
+*B.Sc. Computer Science · Apple Developer Academy graduate*  
+*Previously: GamifierSA · DigiPen · GameFounders Accelerator · Ministry of Communications*
