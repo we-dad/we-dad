@@ -1,8 +1,8 @@
 # Wedad Salem
 
-Software and game developer based in Riyadh. I build across the full stack — Unity games, iOS apps, desktop software, and web — and I ship them.
+Software and game developer based in Riyadh. I build across the full stack — Unity games, iOS apps, desktop software, and web.
 
-**Open to work.** → [Portfolio](https://we-dad.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/wedad-salem) · [itch.io](https://wedad.itch.io) · [Email](mailto:wedad.salem@proton.me)
+[Portfolio](https://we-dad.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/wedad-salem) · [itch.io](https://wedad.itch.io) · [Email](mailto:wedad.salem@proton.me)
 
 ---
 
