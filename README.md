@@ -14,7 +14,7 @@ Published iOS marketplace connecting property owners with interior designers. Bu
 **[Cows & Bulls](https://github.com/we-dad/CowsAndBullsGame)** — Unity, C#, PlayFab  
 Number-guessing game designed as a working card payment terminal. The player types on a keypad and results print on a paper receipt that feeds out of the machine. Online leaderboard, full Arabic/English localization, native share flow.
 
-**[Real Estate System](https://github.com/we-dad/real-estate-installment-manager-releases)** — C#, Avalonia, SQLite, Supabase  
+**[Real Estate System](https://github.com/we-dad/RealstateApp.git)** — C#, Avalonia, SQLite, Supabase  
 Desktop application built solo for a freelance client — property units, tenants, installment schedules, and contract generation. In daily production use.
 
 ---
